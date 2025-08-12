@@ -8,6 +8,17 @@
         bool isMarried = false;
         char grade = 'A';
         string name = "Nguyen Van A";
+        string greeting = "Xin chào, " + name;
+        int length = name.Length;
+        char firstChar = name[0];
+        string sub = name.Substring(0, 2);
+        string upper = name.ToUpper();
+        string lower = name.ToLower();
+        bool contains = name.Contains("an");
+        string replaced = name.Replace("A", "DucAnh");
+        string trimmed = "   abc   ".Trim();
+        string str = "Táo,Chuối,Cam";
+        string[] fruits = str.Split(',');
         DateTime today = DateTime.Now;
 
         Console.WriteLine($"Name: {name}");
@@ -17,6 +28,17 @@
         Console.WriteLine($"Married: {isMarried}");
         Console.WriteLine($"Grade: {grade}");
         Console.WriteLine($"Today: {today}");
+        Console.WriteLine($"Greeting: {greeting}");
+        Console.WriteLine($"Length of name: {length}");
+        Console.WriteLine($"First character: {firstChar}");
+        Console.WriteLine($"Substring: {sub}");
+        Console.WriteLine($"Uppercase: {upper}");
+        Console.WriteLine($"Lowercase: {lower}");
+        Console.WriteLine($"Contains 'an': {contains}");
+        Console.WriteLine($"Replaced 'A' with 'DucAnh': {replaced}");
+        Console.WriteLine($"Trimmed string: '{trimmed}'");
+        Console.WriteLine($"Split string into array: {str}");
+        Console.WriteLine("Fruits: " + string.Join(", ", fruits));
         Console.WriteLine();
 
         int a = 10;
@@ -54,6 +76,35 @@
 
         if (!isMarried)
             Console.WriteLine("Chưa kết hôn (NOT)");
+
+        int[] numbers = new int[5];
+        int[] scores = { 10, 20, 30, 40, 50 };
+        string[] names = new string[] { "Hùng", "An", "Bình" };
+        numbers[0] = 5;
+        int x = numbers[0];
+        for (int i = 0; i < scores.Length; i++)
+        {
+            Console.WriteLine($"scores[{i}] = {scores[i]}");
+        }
+        int[] arr = { 5, 2, 9, 1, 7 };
+
+        Array.Sort(arr);
+        Console.WriteLine("Mảng sau khi sắp xếp:");
+        foreach (var item in arr)
+        {
+            Console.Write(item + ", ");
+        }
+
+        Console.WriteLine();
+        Array.Reverse(arr);
+        Console.WriteLine($"Mảng sau khi sắp xếp:");
+        foreach (var item in arr)
+        {
+            Console.Write(item + ", ");
+        }
+
+        int index = Array.IndexOf(arr, 9);
+        Console.WriteLine($"\nChỉ số của phần tử 9 trong mảng: {index}");
 
         Console.ReadLine();
     }
