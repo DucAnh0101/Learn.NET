@@ -56,7 +56,7 @@
         Console.WriteLine($"Parse string '456' -> int: {num2}");
 
         if (int.TryParse("789", out int num3))
-            Console.WriteLine($"TryParse thành công: {num3}");
+            Console.WriteLine($"TryParse thành công: {num3}")
         else
             Console.WriteLine("TryParse thất bại");
         Console.WriteLine();

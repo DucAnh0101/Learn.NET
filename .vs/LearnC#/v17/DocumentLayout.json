@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "F:\\Code\\C#\\LearnC#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17B1930D-EADA-4E72-AEAF-B29F217BA97A}|Day1\\Day1.csproj|f:\\code\\c#\\learnc#\\day1\\day1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17B1930D-EADA-4E72-AEAF-B29F217BA97A}|Day1\\Day1.csproj|solutionrelative:day1\\day1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03E2CC1B-B6E3-4CF9-921A-70A3954BAF5F}|MIddleware\\MIddleware.csproj|f:\\code\\c#\\learnc#\\middleware\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E2CC1B-B6E3-4CF9-921A-70A3954BAF5F}|MIddleware\\MIddleware.csproj|solutionrelative:middleware\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E2CC1B-B6E3-4CF9-921A-70A3954BAF5F}|MIddleware\\MIddleware.csproj|f:\\code\\c#\\learnc#\\middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E2CC1B-B6E3-4CF9-921A-70A3954BAF5F}|MIddleware\\MIddleware.csproj|solutionrelative:middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E2CC1B-B6E3-4CF9-921A-70A3954BAF5F}|MIddleware\\MIddleware.csproj|f:\\code\\c#\\learnc#\\middleware\\controllers\\productcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E2CC1B-B6E3-4CF9-921A-70A3954BAF5F}|MIddleware\\MIddleware.csproj|solutionrelative:middleware\\controllers\\productcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E2CC1B-B6E3-4CF9-921A-70A3954BAF5F}|MIddleware\\MIddleware.csproj|f:\\code\\c#\\learnc#\\middleware\\filters\\loggingactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E2CC1B-B6E3-4CF9-921A-70A3954BAF5F}|MIddleware\\MIddleware.csproj|solutionrelative:middleware\\filters\\loggingactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E2CC1B-B6E3-4CF9-921A-70A3954BAF5F}|MIddleware\\MIddleware.csproj|f:\\code\\c#\\learnc#\\middleware\\middleware\\requestheadercheckmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E2CC1B-B6E3-4CF9-921A-70A3954BAF5F}|MIddleware\\MIddleware.csproj|solutionrelative:middleware\\middleware\\requestheadercheckmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E2CC1B-B6E3-4CF9-921A-70A3954BAF5F}|MIddleware\\MIddleware.csproj|f:\\code\\c#\\learnc#\\middleware\\filters\\customactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E2CC1B-B6E3-4CF9-921A-70A3954BAF5F}|MIddleware\\MIddleware.csproj|solutionrelative:middleware\\filters\\customactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E2CC1B-B6E3-4CF9-921A-70A3954BAF5F}|MIddleware\\MIddleware.csproj|f:\\code\\c#\\learnc#\\middleware\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E2CC1B-B6E3-4CF9-921A-70A3954BAF5F}|MIddleware\\MIddleware.csproj|solutionrelative:middleware\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E2CC1B-B6E3-4CF9-921A-70A3954BAF5F}|MIddleware\\MIddleware.csproj|f:\\code\\c#\\learnc#\\middleware\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E2CC1B-B6E3-4CF9-921A-70A3954BAF5F}|MIddleware\\MIddleware.csproj|solutionrelative:middleware\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E2CC1B-B6E3-4CF9-921A-70A3954BAF5F}|MIddleware\\MIddleware.csproj|f:\\code\\c#\\learnc#\\middleware\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E2CC1B-B6E3-4CF9-921A-70A3954BAF5F}|MIddleware\\MIddleware.csproj|solutionrelative:middleware\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 198,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Day1.cs",
-              "DocumentMoniker": "F:\\Code\\C#\\LearnC#\\Day1\\Day1.cs",
-              "RelativeDocumentMoniker": "Day1\\Day1.cs",
-              "ToolTip": "F:\\Code\\C#\\LearnC#\\Day1\\Day1.cs",
-              "RelativeToolTip": "Day1\\Day1.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA4wCQAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "LoggingActionFilter.cs",
+              "DocumentMoniker": "F:\\Code\\C#\\LearnC#\\MIddleware\\Filters\\LoggingActionFilter.cs",
+              "RelativeDocumentMoniker": "MIddleware\\Filters\\LoggingActionFilter.cs",
+              "ToolTip": "F:\\Code\\C#\\LearnC#\\MIddleware\\Filters\\LoggingActionFilter.cs",
+              "RelativeToolTip": "MIddleware\\Filters\\LoggingActionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T01:26:03.548Z",
+              "WhenOpened": "2025-08-14T04:19:40.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestHeaderCheckMiddleware.cs",
+              "DocumentMoniker": "F:\\Code\\C#\\LearnC#\\MIddleware\\Middleware\\RequestHeaderCheckMiddleware.cs",
+              "RelativeDocumentMoniker": "MIddleware\\Middleware\\RequestHeaderCheckMiddleware.cs",
+              "ToolTip": "F:\\Code\\C#\\LearnC#\\MIddleware\\Middleware\\RequestHeaderCheckMiddleware.cs",
+              "RelativeToolTip": "MIddleware\\Middleware\\RequestHeaderCheckMiddleware.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T04:19:17.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "F:\\Code\\C#\\LearnC#\\MIddleware\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "MIddleware\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "F:\\Code\\C#\\LearnC#\\MIddleware\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "MIddleware\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T04:18:29.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Code\\C#\\LearnC#\\MIddleware\\Program.cs",
+              "RelativeDocumentMoniker": "MIddleware\\Program.cs",
+              "ToolTip": "F:\\Code\\C#\\LearnC#\\MIddleware\\Program.cs",
+              "RelativeToolTip": "MIddleware\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T03:56:25.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController .cs",
+              "DocumentMoniker": "F:\\Code\\C#\\LearnC#\\MIddleware\\Controllers\\ProductController .cs",
+              "RelativeDocumentMoniker": "MIddleware\\Controllers\\ProductController .cs",
+              "ToolTip": "F:\\Code\\C#\\LearnC#\\MIddleware\\Controllers\\ProductController .cs",
+              "RelativeToolTip": "MIddleware\\Controllers\\ProductController .cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA2wDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T03:55:52.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\Code\\C#\\LearnC#\\MIddleware\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MIddleware\\Models\\Product.cs",
+              "ToolTip": "F:\\Code\\C#\\LearnC#\\MIddleware\\Models\\Product.cs",
+              "RelativeToolTip": "MIddleware\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T03:55:24.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "F:\\Code\\C#\\LearnC#\\MIddleware\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MIddleware\\Services\\ProductService.cs",
+              "ToolTip": "F:\\Code\\C#\\LearnC#\\MIddleware\\Services\\ProductService.cs",
+              "RelativeToolTip": "MIddleware\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T03:53:55.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomActionFilter.cs",
+              "DocumentMoniker": "F:\\Code\\C#\\LearnC#\\MIddleware\\Filters\\CustomActionFilter.cs",
+              "RelativeDocumentMoniker": "MIddleware\\Filters\\CustomActionFilter.cs",
+              "ToolTip": "F:\\Code\\C#\\LearnC#\\MIddleware\\Filters\\CustomActionFilter.cs",
+              "RelativeToolTip": "MIddleware\\Filters\\CustomActionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T03:53:27.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "F:\\Code\\C#\\LearnC#\\MIddleware\\Middleware\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "MIddleware\\Middleware\\LoggingMiddleware.cs",
+              "ToolTip": "F:\\Code\\C#\\LearnC#\\MIddleware\\Middleware\\LoggingMiddleware.cs",
+              "RelativeToolTip": "MIddleware\\Middleware\\LoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T03:52:53.92Z",
               "EditorCaption": ""
             }
           ]
