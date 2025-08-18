@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "BussinessObject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BussinessObject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BussinessObject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BussinessObject/1.0.0": {
+      "type": "project",
+      "path": "../BussinessObject/BussinessObject.csproj",
+      "msbuildProject": "../BussinessObject/BussinessObject.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "BussinessObject >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Bomwf\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\Code\\C#\\LearnC#\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectName": "DataAccessLayer",
+      "projectPath": "F:\\Code\\C#\\LearnC#\\DataAccessLayer\\DataAccessLayer.csproj",
+      "packagesPath": "C:\\Users\\Bomwf\\.nuget\\packages\\",
+      "outputPath": "F:\\Code\\C#\\LearnC#\\DataAccessLayer\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Bomwf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "F:\\Code\\C#\\LearnC#\\BussinessObject\\BussinessObject.csproj": {
+              "projectPath": "F:\\Code\\C#\\LearnC#\\BussinessObject\\BussinessObject.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
