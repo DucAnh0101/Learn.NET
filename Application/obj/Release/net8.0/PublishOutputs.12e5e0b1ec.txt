@@ -1,0 +1,15 @@
+F:\Code\C#\LearnC#\Application\obj\Release\net8.0\PubTmp\Out\Application.exe
+F:\Code\C#\LearnC#\Application\obj\Release\net8.0\PubTmp\Out\Application.dll
+F:\Code\C#\LearnC#\Application\obj\Release\net8.0\PubTmp\Out\Application.deps.json
+F:\Code\C#\LearnC#\Application\obj\Release\net8.0\PubTmp\Out\Application.runtimeconfig.json
+F:\Code\C#\LearnC#\Application\obj\Release\net8.0\PubTmp\Out\Application.pdb
+F:\Code\C#\LearnC#\Application\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+F:\Code\C#\LearnC#\Application\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+F:\Code\C#\LearnC#\Application\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Code\C#\LearnC#\Application\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Code\C#\LearnC#\Application\obj\Release\net8.0\PubTmp\Out\BussinessObject.dll
+F:\Code\C#\LearnC#\Application\obj\Release\net8.0\PubTmp\Out\DataAccessLayer.dll
+F:\Code\C#\LearnC#\Application\obj\Release\net8.0\PubTmp\Out\Services.dll
+F:\Code\C#\LearnC#\Application\obj\Release\net8.0\PubTmp\Out\Services.pdb
+F:\Code\C#\LearnC#\Application\obj\Release\net8.0\PubTmp\Out\BussinessObject.pdb
+F:\Code\C#\LearnC#\Application\obj\Release\net8.0\PubTmp\Out\DataAccessLayer.pdb
